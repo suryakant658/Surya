@@ -396,3 +396,18 @@ ul {
   border-right: none;
   font-size: 25px;
 }
+
+/* main 14 */
+
+.main14 {
+  margin: 0px;
+  background-color: #000;
+  color: white;
+  width: 100%;
+  height: 50px;
+}
+.main14 p {
+  text-align: center;
+  padding-top: 15px;
+  font-size: 25px;
+}
